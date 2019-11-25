@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.test.iml" />

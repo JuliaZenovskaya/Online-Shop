@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="api-gateway-application.main" target="1.8" />
       <module name="api-gateway-application.test" target="1.8" />
+      <module name="com.microservices.eurika-service-discovery.main" target="1.8" />
+      <module name="com.microservices.eurika-service-discovery.test" target="1.8" />
       <module name="eureka-service-discovery.eurika-service-discovery.main" target="1.8" />
       <module name="eureka-service-discovery.eurika-service-discovery.test" target="1.8" />
       <module name="eurika-service-discovery.main" target="1.8" />
