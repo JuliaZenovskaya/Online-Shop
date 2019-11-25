@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service-discovery.eurika-service-discovery.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/items-application.iml" filepath="$PROJECT_DIR$/.idea/modules/items-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/items-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/items-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/items-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/items-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-shop.iml" filepath="$PROJECT_DIR$/online-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.api-gateway-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.api-gateway-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.api-gateway-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.api-gateway-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.items-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.items-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.items-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.items-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.payments-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.payments-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.payments-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.payments-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orders-application.iml" filepath="$PROJECT_DIR$/.idea/modules/orders-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orders-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/orders-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orders-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/orders-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payments-application.iml" filepath="$PROJECT_DIR$/.idea/modules/payments-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payments-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/payments-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payments-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/payments-application.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: api-gateway-application
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8000/eureka/
+
+zuul:
+  routes:
+    orders:
+      path: /orders/**
+      serviceId: orders-application
+      strip-prefix: false
+    items:
+      path: /items/**
+      serviceId: items-application
+      strip-prefix: false
+    payments:
+      path: /orders/{order_id}/payments
+      serviceId: payments-application
+      strip-prefix: false
