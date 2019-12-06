@@ -20,8 +20,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Jully.online-shop.payments-application.main" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.4" level="project" />
+    <orderEntry type="module" module-name="Jully.online-shop.payments-application.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:2.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.hibernate:hibernate-core:5.0.7.Final" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.48" level="project" />
@@ -98,8 +98,8 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.netflix.hystrix:hystrix-core:1.5.18" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.1.6.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.inject:guice:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: io.reactivex:rxnetty-servo:0.4.9" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-core:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.netflix.servo:servo-core:0.12.21" level="project" />
@@ -118,8 +118,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: io.reactivex:rxnetty:0.4.9" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.netflix.netflix-commons:netflix-commons-util:0.3.0" level="project" />
     <orderEntry type="library" name="Gradle: org.xerial.snappy:snappy-java:1.1.7.1" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.netflix.netflix-commons:netflix-statistics:0.1.1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-context:2.1.4.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.netflix.netflix-commons:netflix-statistics:0.1.1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-commons:2.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-rsa:1.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-netflix-ribbon:2.1.4.RELEASE" level="project" />

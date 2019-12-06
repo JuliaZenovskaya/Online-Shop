@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: commons-fileupload:commons-fileupload:1.4">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.4/f95188e3d372e20e7328706c37ef366e5d7859b0/commons-fileupload-1.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
