@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.*;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-@RestController (value = "orders/{orderId}/payments")
+@RestController
+@RequestMapping(value = "payments")
 public class PaymentController {
     private PaymentService paymentService;
     private static final Logger log = Logger.getLogger(PaymentController.class);
@@ -20,7 +21,7 @@ public class PaymentController {
         this.paymentService = paymentService;
     }
 
-    @PostMapping
+    @PostMapping (value = "orders/{order_id}/payment")
     @ResponseStatus(HttpStatus.CREATED)
     public OrderDTO addNewPayment(@RequestParam PaymentStatus status, @PathVariable int order_id) {
         try {
@@ -51,7 +52,7 @@ public class PaymentController {
     }
 
     @GetMapping(value = "{id}")
-    public Payment getItemById (@PathVariable int id) {
+    public Payment getPaymentById (@PathVariable int id) {
         try {
             Payment temp = paymentService.getPaymentById(id);
             log.info("Payment with id = " + id + " was found");
@@ -62,7 +63,7 @@ public class PaymentController {
         }
     }
 
-    @GetMapping
+    @GetMapping (value = "order/{orderId}")
     public ArrayList<Payment> getPaymentsByOrderId(@PathVariable int orderId) {
         try {
             ArrayList<Payment> temp =  paymentService.getPaymentsByOrderId(orderId);

@@ -21,14 +21,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="online-shop.payments-application.main" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.4" level="project" />
+    <orderEntry type="module" module-name="online-shop.payments-application.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:2.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.hibernate:hibernate-core:5.0.7.Final" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.48" level="project" />
     <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.1.4.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework.kafka:spring-kafka:2.2.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.kafka:spring-kafka:2.3.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: io.springfox:springfox-swagger2:2.8.0" level="project" />
     <orderEntry type="library" name="Gradle: io.springfox:springfox-swagger-ui:2.8.0" level="project" />
     <orderEntry type="library" name="Gradle: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" level="project" />
@@ -54,6 +54,8 @@
     <orderEntry type="library" name="Gradle: javax.xml.bind:jaxb-api:2.3.1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-jpa:2.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-aspects:5.1.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-clients:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.retry:spring-retry:1.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: io.springfox:springfox-schema:2.8.0" level="project" />
     <orderEntry type="library" name="Gradle: io.springfox:springfox-spi:2.8.0" level="project" />
     <orderEntry type="library" name="Gradle: io.springfox:springfox-core:2.8.0" level="project" />
@@ -66,8 +68,6 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-orm:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-jdbc:5.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-tx:5.1.6.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework.retry:spring-retry:1.2.4.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-clients:2.0.1" level="project" />
     <orderEntry type="library" name="Gradle: io.swagger:swagger-models:1.5.14" level="project" />
     <orderEntry type="library" name="Gradle: io.swagger:swagger-annotations:1.5.14" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:20.0" level="project" />

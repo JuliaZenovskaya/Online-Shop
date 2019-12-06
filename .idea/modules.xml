@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.api-gateway-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.api-gateway-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.api-gateway-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.api-gateway-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.items-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.items-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.items-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.items-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.orders-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.orders-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.orders-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.orders-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.payments-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.payments-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jully.online-shop.payments-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Jully.online-shop.payments-application.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway-application.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.microservices.eurika-service-discovery.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-application.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-application.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurika-service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eurika-service-discovery.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/items-application.iml" filepath="$PROJECT_DIR$/.idea/modules/items-application.iml" />
@@ -18,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.api-gateway-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.api-gateway-application.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.items-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.items-application.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.items-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.items-application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.orders-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.orders-application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.orders-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.orders-application.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.payments-application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.payments-application.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/online-shop.payments-application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/online-shop.payments-application.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/orders-application.iml" filepath="$PROJECT_DIR$/.idea/modules/orders-application.iml" />

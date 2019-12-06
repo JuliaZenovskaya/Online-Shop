@@ -1,23 +1,38 @@
+
+server:
+  port: 8080
+
 spring:
   application:
-    name: api-gateway-application
+    name: api-gateway-service
 
 eureka:
+  instance:
+    prefer-ip-address: true
+    status-page-url: http://api-gateway-service/
   client:
     serviceUrl:
-      defaultZone: http://localhost:8000/eureka/
+      defaultZone: http://localhost:8769/eureka
+    register-with-eureka: true
+    fetch-registry: true
+
 
 zuul:
   routes:
     orders:
       path: /orders/**
-      serviceId: orders-application
+      serviceId: orders-service
       strip-prefix: false
-    items:
-      path: /items/**
-      serviceId: items-application
+    warehouse:
+      path: /warehouse/**
+      serviceId: items-service
       strip-prefix: false
     payments:
-      path: /orders/{order_id}/payments
-      serviceId: payments-application
+      path: /payments/**
+      serviceId: payments-service
       strip-prefix: false
+    orderpaid:
+      path: /api/orderpaid/**
+      serviceId: api-gateway-service
+      strip-prefix: false
+
