@@ -12,3 +12,7 @@ services:
     build: ./items-application
     ports:
       - "9000:9000"
+  gateway:
+    build: ./api-gateway-application
+    ports:
+      - "8080:8080"
