@@ -10,6 +10,6 @@ services:
       - "9092:9092"
       - "29092:29092"
   eureka:
-    build: ./eurika-service-discovery
+    build: ./eureka
     ports:
-      - "8761:8761"
+      - "8769:8769"
